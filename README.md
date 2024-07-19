@@ -1,3 +1,5 @@
+
+
 Dependencias:
 ```
 $ pip install fastapi
@@ -11,8 +13,6 @@ $ npm install bootstrap-vue@2.21.2 --save
 Executar o servidor:
 ```
 $ cd server
-$ python3.11 -m venv env
-$ source env/bin/activate
 $ uvicorn main:app --reload
 ```
 
